@@ -1,4 +1,4 @@
 package pe.edu.tecsup.lab03;
 
-public class appplication {
+public class Appplication {
 }
